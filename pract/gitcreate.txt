@@ -1,0 +1,6 @@
+$ git init
+$ git remote add origin https://github.com/pavankumar198/myrep.git
+$ git remote --v
+$ git add .
+$ git commit -m "any comment"
+$ git push -u origin master
